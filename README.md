@@ -1,6 +1,8 @@
+VERZOVANI 
+
 
 README
-Výpočet průměru
+Program na výpočet průměru
 Tento projekt ukazuje, jak v C# vypočítat průměr ze dvou čísel.
 
 Použití:
