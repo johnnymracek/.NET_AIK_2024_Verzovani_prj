@@ -19,6 +19,8 @@ namespace Verzovani
 
             // Výsledek
             Console.WriteLine("Průměr ze čísel {0} a {1} je: {2}", num1, num2, prumer);
+
+            // tohle by se melo ulozit :)
         }
     }
 
