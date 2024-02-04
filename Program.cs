@@ -8,10 +8,10 @@ namespace Verzovani
         public static void Main(string[] args)
         {
             // Získání vstupu od uživatele
-            Console.WriteLine("Zadejte první číslo:");
+            Console.WriteLine("Zadejte #1 číslo:");
             int num1 = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Zadejte druhé číslo:");
+            Console.WriteLine("Zadejte #2 číslo:");
             int num2 = int.Parse(Console.ReadLine());
 
             // Výpočet průměru
